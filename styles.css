@@ -1,16 +1,26 @@
+div {
+    margin: 10px;
+}
 /* REPLACING HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
 #header-photo {
     height: 600px;
     width: 100%;
     opacity: 0.5;
-    margin: 50px;
+    margin: 10px;
 } 
 
+#liz-profile-photo {
+    height: 500px;
+    margin: 20px;
+}
+
+#liz-christian-photo {
+    height: 600px;
+}
 
 
 
-
-/* THE FOLLOWING ARE TO HELP VISUALIZE THE CONTAINER/COLUMNS
+/* THE FOLLOWING ARE TO HELP VISUALIZE THE CONTAINERS/ROWS/COLUMNS
 .container {
     background: gray;
 }
