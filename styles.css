@@ -1,6 +1,12 @@
 div {
     margin: 10px;
 }
+
+body {
+    background: #e1d0c6;
+    font-family: Lora, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
 /* REPLACING HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
 #header-photo {
     height: 600px;
@@ -27,4 +33,8 @@ div {
 
 .col {
     border: blue dotted;
+}
+
+.row {
+    border: red solid;
 } */
