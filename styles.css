@@ -7,6 +7,16 @@ body {
     font-family: Lora, Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
+a {
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.social-media-icons {
+    float: right;
+}
 /* REPLACING HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
 #header-photo {
     height: 600px;
