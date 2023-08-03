@@ -1,6 +1,20 @@
+/* REPLACING HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
 #header-photo {
     height: 600px;
     width: 100%;
     opacity: 0.5;
+    margin: 50px;
 } 
-/* REPLACING HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
+
+
+
+
+
+/* THE FOLLOWING ARE TO HELP VISUALIZE THE CONTAINER/COLUMNS
+.container {
+    background: gray;
+}
+
+.col {
+    border: blue dotted;
+} */
