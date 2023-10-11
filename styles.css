@@ -3,21 +3,30 @@ div {
 }
 
 body {
-    background: #6e6763;
+    background: #f1f1f1;
     font-family: Lora, Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
     padding-left: 10px;
     padding-right: 10px;
 }
 
+#intro {
+    margin: 100px;
+    text-align: center;
+}
+
 #about-me {
-    text-align: right;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
 }
 
 .social-media-icons {
@@ -25,8 +34,9 @@ a {
     padding: 20px;
 }
 
-header {
+.header {
     display: flex;
+    background-color: white;
 }
 
 /* MAY REPLACE HEADER PHOTO SO WILL MOST LIKELY NEED TO RESIZE*/
@@ -37,10 +47,15 @@ header {
     z-index: -1;
 } 
 
-.navbar {
+#contact {
+    margin: auto;
+}
+
+
+/* .navbar {
     position: fixed;
     padding: 20px;
-}
+} */
 
 #liz-profile-photo {
     height: 500px;
@@ -49,10 +64,8 @@ header {
     border: 3px solid white;
 }
 
-#liz-christian-photo {
-    height: 600px;
-    padding: 10px;
-    border: 3px solid white;
+#ttt {
+    width: 800px;
 }
 
 .grid-container {
